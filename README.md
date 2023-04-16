@@ -87,7 +87,7 @@
 	</center>
 
 ## Contact me 📫
-<img src="https://img.shields.io/badge/Gmail-benjaminzepedaibarra%40gmail.com-red?style=for-the-badge&logo=gmail" href="mailto:benjaminzepedaibarra@gmail.com"> <img src="https://img.shields.io/badge/github-https://github.com/Bemazepedaib-lightgrey?style=for-the-badge&logo=github" href="https://github.com/Bemazepedaib">
+<img src="https://img.shields.io/badge/Gmail-benjaminzepedaibarra%40gmail.com-red?style=for-the-badge&logo=gmail" href="mailto:benjaminzepedaibarra@gmail.com"> <img src="https://img.shields.io/badge/github-https://github.com/Bemazepedaib-lightgrey?style=for-the-badge&logo=github" href="https://github.com/Bemazepedaib"> <img src="https://img.shields.io/badge/Linkedin-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbenjam%25C3%25ADn--zepeda--442828272-blue?style=for-the-badge&logo=linkedin">
 
 
 <!--
