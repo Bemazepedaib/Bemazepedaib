@@ -2,78 +2,120 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=3000&pause=1000&color=05BDCF&background=FF000000&center=true&vCenter=true&width=1000&lines=Systems+Engineer;Web+Developer;Goal+Focused;Always+learning+something+new)](https://git.io/typing-svg)
 
-## Tools & Technologies 🖥️
-- **Frontend Development**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td align="center">
-						<span><strong>HTML</strong></span><br/>
-						<img src="https://img.icons8.com/color/64/html-5.png">
-					</td>
-					<td align="center">
-						<span><strong>CSS</strong></span><br/>
-						<img src="https://img.icons8.com/color/64/css3.png">
-					</td>
-					<td align="center">
-						<span><strong>Javascript</strong></span><br/>
-						<img src="https://img.icons8.com/color/64/javascript.png">
-					</td>
-					<td align="center">
-						<span><strong>Typescript</strong></span><br/>
-						<img src="https://img.icons8.com/fluency/64/typescript.png">
-					</td>
-					<td align="center">
-						<span><strong>Bootstrap</strong></span><br/>
-						<img src="https://img.icons8.com/color/64/bootstrap.png">
-					</td>
-					<td align="center">
-						<span><strong>React</strong></span><br/>
-						<img src="https://img.icons8.com/plasticine/64/react.png">
-					</td>
-        </tr>
-			</tbody>
-		</table>
-	</center>
-- **Backend Development**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Node JS</strong></span><br/>
-						<img src="https://img.icons8.com/color/64/nodejs.png">
-					</td>
-          <td width="25%" align="center">
-						<span><strong>MongoDB</strong></span><br/>
-						<img src="https://img.icons8.com/color/64/mongodb.png">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>GraphQL</strong></span><br/>
-						<img src="https://img.icons8.com/color/64/graphql.png">
-					</td>
-          <td width="25%" align="center">
-						<span><strong>Apollo Server</strong></span><br/>
-						<img src="https://img.icons8.com/color/64/apollo.png">
-					</td>
-					</td>
-          <td width="25%" align="center">
-						<span><strong>Python</strong></span><br/>
-						<img src="https://img.icons8.com/color/64/python.png">
-					</td>
-					</td>
-          <td width="25%" align="center">
-						<span><strong>PostgreSQL</strong></span><br/>
-						<img src="https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
+<div align="center">
+	<a href="mailto:benjaminzepedaibarra@gmail.com"><img height="64" width="64" src="https://cdn.simpleicons.org/gmail/05BDCF" /></a> &emsp; <a href="https://www.linkedin.com/in/benjam%C3%ADn-zepeda-442828272/"><img height="64" width="64" src="https://cdn.simpleicons.org/linkedin/05BDCF" /></a>
+</div>
 
-## Contact me 📫
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:benjaminzepedaibarra@gmail.com"> <img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white" href="https://github.com/Bemazepedaib"> <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+
+<h2 align="center"> Tools & Technologies 🖥️ </h2>
+<h4 align="center"> Frontend Development </h2>
+<table align="center">
+	<tbody>
+		<tr>
+			<td align="center">
+				<span><strong>HTML</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/html5/E34F26" />
+			</td>
+			<td align="center">
+				<span><strong>CSS</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/css3/1572B6" />
+			</td>
+			<td align="center">
+				<span><strong>Bootstrap</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/bootstrap/7952B3" />
+			</td>
+			<td align="center">
+				<span><strong>React</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/react/61DAFB" />
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h4 align="center"> Backend Development </h2>
+<table align="center">
+	<tbody>
+		<tr>
+			<td align="center">
+				<span><strong>NodeJS</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/node.js/5FA04E" />
+			</td>
+			<td align="center">
+				<span><strong>GraphQL</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/graphql/E10098" />
+			</td>
+			<td align="center">
+				<span><strong>Apollo Server</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/apollographql/311C87" />
+			</td>
+			<td align="center">
+				<span><strong>Express</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/express/000000" />
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h4 align="center"> Programming Languages </h2>
+<table align="center">
+	<tbody>
+		<tr>
+			<td align="center">
+				<span><strong>JavaScript</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+			</td>
+			<td align="center">
+				<span><strong>TypeScript</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/typescript/3178C6" />
+			</td>
+			<td align="center">
+				<span><strong>Python</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/python/3776AB" />
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h4 align="center"> Databases </h2>
+<table align="center">
+	<tbody>
+		<tr>
+			<td align="center">
+				<span><strong>Oracle</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/oracle/F80000" />
+			</td>
+			<td align="center">
+				<span><strong>PostgreSQL</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/postgresql/4169E1" />
+			</td>
+			<td align="center">
+				<span><strong>MongoDB</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/mongodb/47A248" />
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h4 align="center"> Others </h2>
+<table align="center">
+	<tbody>
+		<tr>
+			<td align="center">
+				<span><strong>AWS</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/amazonwebservices/FFFFFF" />
+			</td>
+			<td align="center">
+				<span><strong>Amplify</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/awsamplify/FF9900" />
+			</td>
+			<td align="center">
+				<span><strong>Git</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/git/F05032" />
+			</td>
+			<td align="center">
+				<span><strong>Postman</strong></span><br/>
+				<img height="64" width="64" src="https://cdn.simpleicons.org/postman/FF6C37" />
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 <!--
 **Bemazepedaib/Bemazepedaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
