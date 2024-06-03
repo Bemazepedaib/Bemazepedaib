@@ -57,38 +57,23 @@
 						<span><strong>Apollo Server</strong></span><br/>
 						<img src="https://img.icons8.com/color/64/apollo.png">
 					</td>
+					</td>
+          <td width="25%" align="center">
+						<span><strong>Python</strong></span><br/>
+						<img src="https://img.icons8.com/color/64/python.png">
+					</td>
+					</td>
+          <td width="25%" align="center">
+						<span><strong>PostgreSQL</strong></span><br/>
+						<img src="https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000">
+					</td>
 				</tr>
 			</tbody>
 		</table>
 	</center>
 
-## What I want to learn 🧑‍🎓
-
-- **Frontend Development**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td align="center">
-						<span><strong>Styled Components</strong></span><br/>
-						<img src="https://img.icons8.com/color/64/styled-components.png">
-					</td>
-          <td align="center">
-						<span><strong>React Native</strong></span><br/>
-						<img src="https://img.icons8.com/plasticine/64/react.png">
-					</td>
-          <td align="center">
-						<span><strong>NextJS</strong></span><br/>
-						<img width="64" height="64" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png">
-					</td>
-        </tr>
-			</tbody>
-		</table>
-	</center>
-
 ## Contact me 📫
-<img src="https://img.shields.io/badge/Gmail-benjaminzepedaibarra%40gmail.com-red?style=for-the-badge&logo=gmail" href="mailto:benjaminzepedaibarra@gmail.com"> <img src="https://img.shields.io/badge/github-https://github.com/Bemazepedaib-lightgrey?style=for-the-badge&logo=github" href="https://github.com/Bemazepedaib"> <img src="https://img.shields.io/badge/Linkedin-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbenjam%25C3%25ADn--zepeda--442828272-blue?style=for-the-badge&logo=linkedin">
-
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:benjaminzepedaibarra@gmail.com"> <img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white" href="https://github.com/Bemazepedaib"> <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 <!--
 **Bemazepedaib/Bemazepedaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
